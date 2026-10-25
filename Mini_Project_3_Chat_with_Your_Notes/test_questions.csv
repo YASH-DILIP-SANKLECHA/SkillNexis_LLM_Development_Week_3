@@ -1,0 +1,11 @@
+question_id,question,gold_pdf_pages,expected_answer,answer_terms,answerable
+Q01,What is machine learning?,2,Machine learning learns patterns from data or experience to make predictions or decisions instead of writing a separate rule for every case.,learns patterns|data|predictions or decisions,true
+Q02,How does supervised learning learn from examples?,3,"It trains on labelled examples, each containing input features and a known target.",labelled examples|input features|known target,true
+Q03,What is the difference between classification and regression?,3,"Classification predicts a category, while regression predicts a numeric value.",category or class|numeric value,true
+Q04,What does clustering do in unsupervised learning?,4,"Clustering groups similar items together, for example to segment customers or group similar documents.",groups similar items together,true
+Q05,"What is overfitting, and name two ways to reduce it?",5,Overfitting means learning training-specific details or noise and performing poorly on unseen data. Regularization and early stopping are two ways to reduce it.,performs poorly on unseen data|regularization|early stopping,true
+Q06,"What are the roles of the training, validation, and test sets?",5,"The training set fits parameters, the validation set helps tune hyperparameters and compare models, and the test set provides final evaluation.",fit model parameters|tune hyperparameters|final evaluation,true
+Q07,How is precision calculated and what does it mean?,6,Precision is true positives divided by predicted positives; it measures the fraction of predicted-positive items that are truly positive.,true positives divided by predicted positives|predicted as positive|truly positive,true
+Q08,"What is a text embedding, and what does cosine similarity compare?",7,A text embedding represents text as a numeric vector. Cosine similarity compares the angle between two vectors.,numeric vector|cosine similarity compares the angle between two vectors,true
+Q09,What exact accuracy percentage did the example model achieve?,,I could not find this in the document.,,false
+Q10,In what year was the first GPT model released?,,I could not find this in the document.,,false

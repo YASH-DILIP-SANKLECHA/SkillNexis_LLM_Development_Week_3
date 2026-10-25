@@ -1,0 +1,11 @@
+question_id,question,reference_answer,expected_source_pdf_pages,expected_in_document
+Q01,What is machine learning?,Machine learning learns patterns from data or experience to make predictions or decisions instead of writing a separate rule for every case.,2,True
+Q02,How does supervised learning learn from examples?,"It trains on labelled examples, each containing input features and a known target.",3,True
+Q03,What is the difference between classification and regression?,"Classification predicts a category, while regression predicts a numeric value.",3,True
+Q04,What does clustering do in unsupervised learning?,"Clustering groups similar items together, for example to segment customers or group similar documents.",4,True
+Q05,"What is overfitting, and name two ways to reduce it?",Overfitting means learning training-specific details or noise and performing poorly on unseen data. Regularization and early stopping are two ways to reduce it.,5,True
+Q06,"What are the roles of the training, validation, and test sets?","The training set fits parameters, the validation set helps tune hyperparameters and compare models, and the test set provides final evaluation.",5,True
+Q07,How is precision calculated and what does it mean?,Precision is true positives divided by predicted positives; it measures the fraction of predicted-positive items that are truly positive.,6,True
+Q08,"What is a text embedding, and what does cosine similarity compare?",A text embedding represents text as a numeric vector. Cosine similarity compares the angle between two vectors.,7,True
+Q09,What exact accuracy percentage did the example model achieve?,I could not find this in the document.,Not found,False
+Q10,In what year was the first GPT model released?,I could not find this in the document.,Not found,False

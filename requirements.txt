@@ -1,0 +1,10 @@
+pypdf>=5.0.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.0.0
+nbformat>=5.9.0
+matplotlib>=3.8.0
+streamlit>=1.36.0
+sentence-transformers>=3.0.0
+requests>=2.31.0
+reportlab>=4.0.0

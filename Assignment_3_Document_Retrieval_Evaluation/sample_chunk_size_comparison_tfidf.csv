@@ -1,0 +1,3 @@
+chunk_size_words,question_count,evidence_found_count,mean_top1_similarity
+100,10,7,0.19981
+180,10,7,0.18031999999999998
